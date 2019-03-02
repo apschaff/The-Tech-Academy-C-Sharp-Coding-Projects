@@ -1,0 +1,79 @@
+﻿<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Please enter your personal and vehicle information.</h5>
+        </div>
+        <div class="card-body">
+            @* below is an easy way to create a form *@
+            @using (Html.BeginForm("Application", "Home", FormMethod.Post))
+            {
+            <div class="row no-gutters">
+                <div class="form-group col-md-6">
+                    <h5>Please enter your first name.</h5>
+                </div>
+                <div class="form-group col-md-6">
+                    <input name="FirstName" type="text" class="form-control" placeholder="First Name" />
+                </div>
+                <div class="form-group col-md-6">
+                    <h5>Please enter your last name.</h5>
+                </div>
+                <div class="form-group col-md-6">
+                    <input name="LastName" type="text" class="form-control" placeholder="Last Name" />
+                </div>
+                <div class="form-group col-md-6">
+                    <h5>Please enter your email address.</h5>
+                </div>
+                <div class="form-group col-md-6">
+                    <input name="EmailAddress" type="email" class="form-control" placeholder="Email Address" />
+                </div>
+                <div class="form-group col-md-6">
+                    <h5>Please enter your date of birth.</h5>
+                </div>
+                <div class="form-group col-md-16">                    
+                    <input name="DateOfBirth" type="date" class="form-control" />
+                </div>
+                <div class="form-group col-md-6">
+                    <h5>Please enter the model year of your car.</h5>
+                </div>
+                <div class="form-group col-md-16">
+                    <input name="CarYear" type="number" class="form-control" placeholder="Car Year" />
+                </div>
+                <div class="form-group col-md-6">
+                    <h5>Please enter your car's make.</h5>
+                </div>
+                <div class="form-group col-md-6">
+                    <input name="CarMake" type="text" class="form-control" placeholder="Car Make" />
+                </div>
+                <div class="form-group col-md-6">
+                    <h5>Please enter your car's model.</h5>
+                </div>
+                <div class="form-group col-md-6">
+                    <input name="CarModel" type="text" class="form-control" placeholder="Car Model" />
+                </div>
+                <div class="form-group col-md-10">
+                    <h5>Please select if you have had a DUI.</h5>
+                </div>
+                <div class="form-group col-md-2">
+                    <input name="DUI" type="checkbox" value ="true" class="form-control" placeholder="Y/N" />                    
+                </div>
+                <div class="form-group col-md-10">
+                    <h5>Please enter the number of tickets you have received.</h5>
+                </div>
+                <div class="form-group col-md-2">
+                    <input name="Tickets" type="number" class="form-control" />
+                </div>
+                <div class="form-group col-md-10">
+                    <h5>Please select if you would like coverage. Otherwise you will only have liability.</h5>
+                </div>
+                <div class="form-group col-md-2">
+                    <input name="Coverage" type="checkbox" value="true" class="form-control" placeholder="Y/N" />
+                    
+                </div>
+                <button type="submit" class="btn btn-block btn-primary">Submit</button>
+            </div>
+            }
+        </div>
+    </div>
+</div>
+
+
