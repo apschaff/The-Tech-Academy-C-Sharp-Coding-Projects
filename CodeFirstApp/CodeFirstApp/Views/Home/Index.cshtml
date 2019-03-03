@@ -1,0 +1,14 @@
+﻿@model IEnumerable<CodeFirstApp.Models.Subject>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h3 class="text-center">See Class Assignments Below.</h3>
+<br/><br/>
+
+<div class="row text-center">
+    @foreach (var item in Model)
+    {
+    <p>Class Code: @item.SubjectCode     ----- Name: @item.Student.Name</p>
+    }
+</div>
