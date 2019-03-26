@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\131ExerciseGeneric\131ExerciseGeneric\bin\Debug\131ExerciseGeneric.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\131ExerciseGeneric\131ExerciseGeneric\bin\Debug\131ExerciseGeneric.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\131ExerciseGeneric\131ExerciseGeneric\bin\Debug\131ExerciseGeneric.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\131ExerciseGeneric\131ExerciseGeneric\obj\Debug\131ExerciseGeneric.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\131ExerciseGeneric\131ExerciseGeneric\obj\Debug\131ExerciseGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\131ExerciseGeneric\131ExerciseGeneric\obj\Debug\131ExerciseGeneric.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\131ExerciseGeneric\131ExerciseGeneric\obj\Debug\131ExerciseGeneric.pdb

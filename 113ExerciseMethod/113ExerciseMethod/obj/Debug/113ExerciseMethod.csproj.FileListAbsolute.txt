@@ -1,0 +1,14 @@
+C:\Users\Andrew\source\repos\113ExerciseMethod\113ExerciseMethod\bin\Debug\113ExerciseMethod.exe.config
+C:\Users\Andrew\source\repos\113ExerciseMethod\113ExerciseMethod\bin\Debug\113ExerciseMethod.exe
+C:\Users\Andrew\source\repos\113ExerciseMethod\113ExerciseMethod\bin\Debug\113ExerciseMethod.pdb
+C:\Users\Andrew\source\repos\113ExerciseMethod\113ExerciseMethod\obj\Debug\113ExerciseMethod.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\113ExerciseMethod\113ExerciseMethod\obj\Debug\113ExerciseMethod.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\113ExerciseMethod\113ExerciseMethod\obj\Debug\113ExerciseMethod.exe
+C:\Users\Andrew\source\repos\113ExerciseMethod\113ExerciseMethod\obj\Debug\113ExerciseMethod.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\113ExerciseMethod\113ExerciseMethod\bin\Debug\113ExerciseMethod.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\113ExerciseMethod\113ExerciseMethod\bin\Debug\113ExerciseMethod.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\113ExerciseMethod\113ExerciseMethod\bin\Debug\113ExerciseMethod.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\113ExerciseMethod\113ExerciseMethod\obj\Debug\113ExerciseMethod.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\113ExerciseMethod\113ExerciseMethod\obj\Debug\113ExerciseMethod.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\113ExerciseMethod\113ExerciseMethod\obj\Debug\113ExerciseMethod.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\113ExerciseMethod\113ExerciseMethod\obj\Debug\113ExerciseMethod.pdb

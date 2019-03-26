@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\140ExerciseLambdaExpressions\140ExerciseLambdaExpressions\bin\Debug\140ExerciseLambdaExpressions.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\140ExerciseLambdaExpressions\140ExerciseLambdaExpressions\bin\Debug\140ExerciseLambdaExpressions.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\140ExerciseLambdaExpressions\140ExerciseLambdaExpressions\bin\Debug\140ExerciseLambdaExpressions.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\140ExerciseLambdaExpressions\140ExerciseLambdaExpressions\obj\Debug\140ExerciseLambdaExpressions.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\140ExerciseLambdaExpressions\140ExerciseLambdaExpressions\obj\Debug\140ExerciseLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\140ExerciseLambdaExpressions\140ExerciseLambdaExpressions\obj\Debug\140ExerciseLambdaExpressions.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\140ExerciseLambdaExpressions\140ExerciseLambdaExpressions\obj\Debug\140ExerciseLambdaExpressions.pdb

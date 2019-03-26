@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\115ExerciseMethods\115ExerciseMethods\bin\Debug\115ExerciseMethods.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\115ExerciseMethods\115ExerciseMethods\bin\Debug\115ExerciseMethods.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\115ExerciseMethods\115ExerciseMethods\bin\Debug\115ExerciseMethods.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\115ExerciseMethods\115ExerciseMethods\obj\Debug\115ExerciseMethods.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\115ExerciseMethods\115ExerciseMethods\obj\Debug\115ExerciseMethods.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\115ExerciseMethods\115ExerciseMethods\obj\Debug\115ExerciseMethods.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\115ExerciseMethods\115ExerciseMethods\obj\Debug\115ExerciseMethods.pdb

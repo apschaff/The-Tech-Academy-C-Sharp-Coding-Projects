@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\126ExerciseInterface\126ExerciseInterface\bin\Debug\126ExerciseInterface.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\126ExerciseInterface\126ExerciseInterface\bin\Debug\126ExerciseInterface.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\126ExerciseInterface\126ExerciseInterface\bin\Debug\126ExerciseInterface.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\126ExerciseInterface\126ExerciseInterface\obj\Debug\126ExerciseInterface.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\126ExerciseInterface\126ExerciseInterface\obj\Debug\126ExerciseInterface.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\126ExerciseInterface\126ExerciseInterface\obj\Debug\126ExerciseInterface.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\126ExerciseInterface\126ExerciseInterface\obj\Debug\126ExerciseInterface.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportExcercise57\DailyReportExcercise57\bin\Debug\DailyReportExcercise57.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportExcercise57\DailyReportExcercise57\bin\Debug\DailyReportExcercise57.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportExcercise57\DailyReportExcercise57\bin\Debug\DailyReportExcercise57.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportExcercise57\DailyReportExcercise57\obj\Debug\DailyReportExcercise57.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportExcercise57\DailyReportExcercise57\obj\Debug\DailyReportExcercise57.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportExcercise57\DailyReportExcercise57\obj\Debug\DailyReportExcercise57.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportExcercise57\DailyReportExcercise57\obj\Debug\DailyReportExcercise57.pdb

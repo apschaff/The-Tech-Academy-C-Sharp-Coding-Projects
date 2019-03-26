@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\120ExercisePeople\120ExercisePeople\obj\Debug\120ExercisePeople.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\120ExercisePeople\120ExercisePeople\obj\Debug\120ExercisePeople.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\120ExercisePeople\120ExercisePeople\bin\Debug\120ExercisePeople.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\120ExercisePeople\120ExercisePeople\bin\Debug\120ExercisePeople.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\120ExercisePeople\120ExercisePeople\bin\Debug\120ExercisePeople.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\120ExercisePeople\120ExercisePeople\obj\Debug\120ExercisePeople.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\120ExercisePeople\120ExercisePeople\obj\Debug\120ExercisePeople.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\98ArraysAndLists\98ArraysAndLists\bin\Debug\98ArraysAndLists.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\98ArraysAndLists\98ArraysAndLists\bin\Debug\98ArraysAndLists.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\98ArraysAndLists\98ArraysAndLists\bin\Debug\98ArraysAndLists.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\98ArraysAndLists\98ArraysAndLists\obj\Debug\98ArraysAndLists.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\98ArraysAndLists\98ArraysAndLists\obj\Debug\98ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\98ArraysAndLists\98ArraysAndLists\obj\Debug\98ArraysAndLists.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\98ArraysAndLists\98ArraysAndLists\obj\Debug\98ArraysAndLists.pdb

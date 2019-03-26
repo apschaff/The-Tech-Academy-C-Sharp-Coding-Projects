@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\114ExerciseMethods\114ExerciseMethods\bin\Debug\114ExerciseMethods.exe.config
+C:\Users\Andrew\source\repos\114ExerciseMethods\114ExerciseMethods\bin\Debug\114ExerciseMethods.exe
+C:\Users\Andrew\source\repos\114ExerciseMethods\114ExerciseMethods\bin\Debug\114ExerciseMethods.pdb
+C:\Users\Andrew\source\repos\114ExerciseMethods\114ExerciseMethods\obj\Debug\114ExerciseMethods.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\114ExerciseMethods\114ExerciseMethods\obj\Debug\114ExerciseMethods.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\114ExerciseMethods\114ExerciseMethods\obj\Debug\114ExerciseMethods.exe
+C:\Users\Andrew\source\repos\114ExerciseMethods\114ExerciseMethods\obj\Debug\114ExerciseMethods.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIncomeComparison67\ExerciseIncomeComparison67\bin\Debug\ExerciseIncomeComparison67.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIncomeComparison67\ExerciseIncomeComparison67\bin\Debug\ExerciseIncomeComparison67.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIncomeComparison67\ExerciseIncomeComparison67\bin\Debug\ExerciseIncomeComparison67.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIncomeComparison67\ExerciseIncomeComparison67\obj\Debug\ExerciseIncomeComparison67.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIncomeComparison67\ExerciseIncomeComparison67\obj\Debug\ExerciseIncomeComparison67.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIncomeComparison67\ExerciseIncomeComparison67\obj\Debug\ExerciseIncomeComparison67.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIncomeComparison67\ExerciseIncomeComparison67\obj\Debug\ExerciseIncomeComparison67.pdb

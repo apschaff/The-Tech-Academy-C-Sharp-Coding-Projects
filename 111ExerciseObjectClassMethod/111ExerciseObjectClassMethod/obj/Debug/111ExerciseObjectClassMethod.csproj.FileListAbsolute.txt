@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\111ExerciseObjectClassMethod\111ExerciseObjectClassMethod\obj\Debug\111ExerciseObjectClassMethod.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\111ExerciseObjectClassMethod\111ExerciseObjectClassMethod\obj\Debug\111ExerciseObjectClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\111ExerciseObjectClassMethod\111ExerciseObjectClassMethod\bin\Debug\111ExerciseObjectClassMethod.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\111ExerciseObjectClassMethod\111ExerciseObjectClassMethod\bin\Debug\111ExerciseObjectClassMethod.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\111ExerciseObjectClassMethod\111ExerciseObjectClassMethod\bin\Debug\111ExerciseObjectClassMethod.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\111ExerciseObjectClassMethod\111ExerciseObjectClassMethod\obj\Debug\111ExerciseObjectClassMethod.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\111ExerciseObjectClassMethod\111ExerciseObjectClassMethod\obj\Debug\111ExerciseObjectClassMethod.pdb

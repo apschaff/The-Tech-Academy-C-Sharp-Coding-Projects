@@ -1,0 +1,14 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\bin\Debug\MaintenanceRecordApp.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\bin\Debug\MaintenanceRecordApp.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\bin\Debug\MaintenanceRecordApp.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\obj\Debug\MaintenanceRecordApp.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\obj\Debug\MaintenanceRecordApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\obj\Debug\MaintenanceRecordApp.csproj.CopyComplete
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\obj\Debug\MaintenanceRecordApp.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\obj\Debug\MaintenanceRecordApp.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\obj\Debug\MaintenanceRecordApp.Migrations.CreateRecord.resources
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MaintenanceRecordApp\MaintenanceRecordApp\obj\Debug\MaintenanceRecordApp.csproj.GenerateResource.cache

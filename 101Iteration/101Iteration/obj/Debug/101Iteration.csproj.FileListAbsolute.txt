@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\101Iteration\101Iteration\obj\Debug\101Iteration.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\101Iteration\101Iteration\obj\Debug\101Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\101Iteration\101Iteration\bin\Debug\101Iteration.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\101Iteration\101Iteration\bin\Debug\101Iteration.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\101Iteration\101Iteration\bin\Debug\101Iteration.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\101Iteration\101Iteration\obj\Debug\101Iteration.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\101Iteration\101Iteration\obj\Debug\101Iteration.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\104ExceptionHandling\104ExceptionHandling\bin\Debug\104ExceptionHandling.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\104ExceptionHandling\104ExceptionHandling\bin\Debug\104ExceptionHandling.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\104ExceptionHandling\104ExceptionHandling\bin\Debug\104ExceptionHandling.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\104ExceptionHandling\104ExceptionHandling\obj\Debug\104ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\104ExceptionHandling\104ExceptionHandling\obj\Debug\104ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\104ExceptionHandling\104ExceptionHandling\obj\Debug\104ExceptionHandling.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\104ExceptionHandling\104ExceptionHandling\obj\Debug\104ExceptionHandling.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\154ExerciseFileIO\154ExerciseFileIO\bin\Debug\154ExerciseFileIO.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\154ExerciseFileIO\154ExerciseFileIO\bin\Debug\154ExerciseFileIO.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\154ExerciseFileIO\154ExerciseFileIO\bin\Debug\154ExerciseFileIO.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\154ExerciseFileIO\154ExerciseFileIO\obj\Debug\154ExerciseFileIO.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\154ExerciseFileIO\154ExerciseFileIO\obj\Debug\154ExerciseFileIO.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\154ExerciseFileIO\154ExerciseFileIO\obj\Debug\154ExerciseFileIO.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\154ExerciseFileIO\154ExerciseFileIO\obj\Debug\154ExerciseFileIO.pdb

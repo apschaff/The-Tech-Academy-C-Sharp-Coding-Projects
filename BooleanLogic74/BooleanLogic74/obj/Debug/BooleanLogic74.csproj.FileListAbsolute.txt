@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic74\BooleanLogic74\bin\Debug\BooleanLogic74.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic74\BooleanLogic74\bin\Debug\BooleanLogic74.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic74\BooleanLogic74\bin\Debug\BooleanLogic74.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic74\BooleanLogic74\obj\Debug\BooleanLogic74.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic74\BooleanLogic74\obj\Debug\BooleanLogic74.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic74\BooleanLogic74\obj\Debug\BooleanLogic74.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic74\BooleanLogic74\obj\Debug\BooleanLogic74.pdb

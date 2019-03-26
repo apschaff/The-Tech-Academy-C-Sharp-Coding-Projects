@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBranching92\ExerciseBranching92\obj\Debug\ExerciseBranching92.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBranching92\ExerciseBranching92\obj\Debug\ExerciseBranching92.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBranching92\ExerciseBranching92\bin\Debug\ExerciseBranching92.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBranching92\ExerciseBranching92\bin\Debug\ExerciseBranching92.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBranching92\ExerciseBranching92\bin\Debug\ExerciseBranching92.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBranching92\ExerciseBranching92\obj\Debug\ExerciseBranching92.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBranching92\ExerciseBranching92\obj\Debug\ExerciseBranching92.pdb

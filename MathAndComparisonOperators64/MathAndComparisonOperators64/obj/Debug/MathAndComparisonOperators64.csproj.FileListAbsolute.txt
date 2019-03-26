@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators64\MathAndComparisonOperators64\bin\Debug\MathAndComparisonOperators64.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators64\MathAndComparisonOperators64\bin\Debug\MathAndComparisonOperators64.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators64\MathAndComparisonOperators64\bin\Debug\MathAndComparisonOperators64.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators64\MathAndComparisonOperators64\obj\Debug\MathAndComparisonOperators64.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators64\MathAndComparisonOperators64\obj\Debug\MathAndComparisonOperators64.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators64\MathAndComparisonOperators64\obj\Debug\MathAndComparisonOperators64.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators64\MathAndComparisonOperators64\obj\Debug\MathAndComparisonOperators64.pdb

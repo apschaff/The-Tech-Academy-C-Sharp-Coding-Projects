@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic75\ExerciseBooleanLogic75\bin\Debug\ExerciseBooleanLogic75.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic75\ExerciseBooleanLogic75\bin\Debug\ExerciseBooleanLogic75.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic75\ExerciseBooleanLogic75\bin\Debug\ExerciseBooleanLogic75.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic75\ExerciseBooleanLogic75\obj\Debug\ExerciseBooleanLogic75.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic75\ExerciseBooleanLogic75\obj\Debug\ExerciseBooleanLogic75.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic75\ExerciseBooleanLogic75\obj\Debug\ExerciseBooleanLogic75.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic75\ExerciseBooleanLogic75\obj\Debug\ExerciseBooleanLogic75.pdb

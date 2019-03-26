@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\165ExerciseExceptionHandling\165ExerciseExceptionHandling\bin\Debug\165ExerciseExceptionHandling.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\165ExerciseExceptionHandling\165ExerciseExceptionHandling\bin\Debug\165ExerciseExceptionHandling.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\165ExerciseExceptionHandling\165ExerciseExceptionHandling\bin\Debug\165ExerciseExceptionHandling.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\165ExerciseExceptionHandling\165ExerciseExceptionHandling\obj\Debug\165ExerciseExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\165ExerciseExceptionHandling\165ExerciseExceptionHandling\obj\Debug\165ExerciseExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\165ExerciseExceptionHandling\165ExerciseExceptionHandling\obj\Debug\165ExerciseExceptionHandling.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\165ExerciseExceptionHandling\165ExerciseExceptionHandling\obj\Debug\165ExerciseExceptionHandling.pdb

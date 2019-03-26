@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\129ExerciseOperatorOverlaod\129ExerciseOperatorOverlaod\bin\Debug\129ExerciseOperatorOverlaod.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\129ExerciseOperatorOverlaod\129ExerciseOperatorOverlaod\bin\Debug\129ExerciseOperatorOverlaod.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\129ExerciseOperatorOverlaod\129ExerciseOperatorOverlaod\bin\Debug\129ExerciseOperatorOverlaod.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\129ExerciseOperatorOverlaod\129ExerciseOperatorOverlaod\obj\Debug\129ExerciseOperatorOverlaod.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\129ExerciseOperatorOverlaod\129ExerciseOperatorOverlaod\obj\Debug\129ExerciseOperatorOverlaod.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\129ExerciseOperatorOverlaod\129ExerciseOperatorOverlaod\obj\Debug\129ExerciseOperatorOverlaod.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\129ExerciseOperatorOverlaod\129ExerciseOperatorOverlaod\obj\Debug\129ExerciseOperatorOverlaod.pdb

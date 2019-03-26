@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\124ExerciseAbstractClass\124ExerciseAbstractClass\bin\Debug\124ExerciseAbstractClass.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\124ExerciseAbstractClass\124ExerciseAbstractClass\bin\Debug\124ExerciseAbstractClass.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\124ExerciseAbstractClass\124ExerciseAbstractClass\bin\Debug\124ExerciseAbstractClass.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\124ExerciseAbstractClass\124ExerciseAbstractClass\obj\Debug\124ExerciseAbstractClass.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\124ExerciseAbstractClass\124ExerciseAbstractClass\obj\Debug\124ExerciseAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\124ExerciseAbstractClass\124ExerciseAbstractClass\obj\Debug\124ExerciseAbstractClass.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\124ExerciseAbstractClass\124ExerciseAbstractClass\obj\Debug\124ExerciseAbstractClass.pdb

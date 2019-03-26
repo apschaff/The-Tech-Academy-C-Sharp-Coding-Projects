@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\100ExerciseArray\100ExerciseArray\bin\Debug\100ExerciseArray.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\100ExerciseArray\100ExerciseArray\bin\Debug\100ExerciseArray.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\100ExerciseArray\100ExerciseArray\bin\Debug\100ExerciseArray.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\100ExerciseArray\100ExerciseArray\obj\Debug\100ExerciseArray.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\100ExerciseArray\100ExerciseArray\obj\Debug\100ExerciseArray.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\100ExerciseArray\100ExerciseArray\obj\Debug\100ExerciseArray.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\100ExerciseArray\100ExerciseArray\obj\Debug\100ExerciseArray.pdb

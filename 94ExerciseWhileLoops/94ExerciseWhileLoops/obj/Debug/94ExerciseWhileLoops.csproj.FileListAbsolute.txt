@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\94ExerciseWhileLoops\94ExerciseWhileLoops\bin\Debug\94ExerciseWhileLoops.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\94ExerciseWhileLoops\94ExerciseWhileLoops\bin\Debug\94ExerciseWhileLoops.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\94ExerciseWhileLoops\94ExerciseWhileLoops\bin\Debug\94ExerciseWhileLoops.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\94ExerciseWhileLoops\94ExerciseWhileLoops\obj\Debug\94ExerciseWhileLoops.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\94ExerciseWhileLoops\94ExerciseWhileLoops\obj\Debug\94ExerciseWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\94ExerciseWhileLoops\94ExerciseWhileLoops\obj\Debug\94ExerciseWhileLoops.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\94ExerciseWhileLoops\94ExerciseWhileLoops\obj\Debug\94ExerciseWhileLoops.pdb

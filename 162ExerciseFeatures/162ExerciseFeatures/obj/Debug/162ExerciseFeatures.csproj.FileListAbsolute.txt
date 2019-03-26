@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\162ExerciseFeatures\162ExerciseFeatures\bin\Debug\162ExerciseFeatures.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\162ExerciseFeatures\162ExerciseFeatures\bin\Debug\162ExerciseFeatures.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\162ExerciseFeatures\162ExerciseFeatures\bin\Debug\162ExerciseFeatures.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\162ExerciseFeatures\162ExerciseFeatures\obj\Debug\162ExerciseFeatures.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\162ExerciseFeatures\162ExerciseFeatures\obj\Debug\162ExerciseFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\162ExerciseFeatures\162ExerciseFeatures\obj\Debug\162ExerciseFeatures.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\162ExerciseFeatures\162ExerciseFeatures\obj\Debug\162ExerciseFeatures.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\137ExerciseStruct\137ExerciseStruct\bin\Debug\137ExerciseStruct.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\137ExerciseStruct\137ExerciseStruct\bin\Debug\137ExerciseStruct.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\137ExerciseStruct\137ExerciseStruct\bin\Debug\137ExerciseStruct.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\137ExerciseStruct\137ExerciseStruct\obj\Debug\137ExerciseStruct.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\137ExerciseStruct\137ExerciseStruct\obj\Debug\137ExerciseStruct.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\137ExerciseStruct\137ExerciseStruct\obj\Debug\137ExerciseStruct.pdb

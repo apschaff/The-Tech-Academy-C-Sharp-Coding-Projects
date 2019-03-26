@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\106ExerciseExceptionHandling\106ExerciseExceptionHandling\bin\Debug\106ExerciseExceptionHandling.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\106ExerciseExceptionHandling\106ExerciseExceptionHandling\bin\Debug\106ExerciseExceptionHandling.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\106ExerciseExceptionHandling\106ExerciseExceptionHandling\bin\Debug\106ExerciseExceptionHandling.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\106ExerciseExceptionHandling\106ExerciseExceptionHandling\obj\Debug\106ExerciseExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\106ExerciseExceptionHandling\106ExerciseExceptionHandling\obj\Debug\106ExerciseExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\106ExerciseExceptionHandling\106ExerciseExceptionHandling\obj\Debug\106ExerciseExceptionHandling.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\106ExerciseExceptionHandling\106ExerciseExceptionHandling\obj\Debug\106ExerciseExceptionHandling.pdb

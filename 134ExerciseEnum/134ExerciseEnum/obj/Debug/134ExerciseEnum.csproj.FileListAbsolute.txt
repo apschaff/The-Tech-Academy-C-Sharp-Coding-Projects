@@ -1,0 +1,7 @@
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\134ExerciseEnum\134ExerciseEnum\bin\Debug\134ExerciseEnum.exe.config
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\134ExerciseEnum\134ExerciseEnum\bin\Debug\134ExerciseEnum.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\134ExerciseEnum\134ExerciseEnum\bin\Debug\134ExerciseEnum.pdb
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\134ExerciseEnum\134ExerciseEnum\obj\Debug\134ExerciseEnum.csprojAssemblyReference.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\134ExerciseEnum\134ExerciseEnum\obj\Debug\134ExerciseEnum.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\134ExerciseEnum\134ExerciseEnum\obj\Debug\134ExerciseEnum.exe
+C:\Users\Andrew\Programming\github\The-Tech-Academy-Basic-C-Sharp-Projects\134ExerciseEnum\134ExerciseEnum\obj\Debug\134ExerciseEnum.pdb
