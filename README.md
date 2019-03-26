@@ -9,4 +9,4 @@ The 231NewsletterAppMVC was created following a Tech Academy Tutorial. It uses a
 
 The CodeFirstApp was created following an online tutorial. It is created with a CodeFirst MVC approach in C# using Entity Framework. This application creates a database and allows the information within that database to be viewed by the user. 
 
-The StudentManagementSystem application was created following a Tech Academy Tutorial. It uses an MVC approach to allow a user to input data into a database. 
+The StudentManagementSystem application was created following a Tech Academy tutorial. It uses an MVC approach to allow a user to input student information into a database. 
